@@ -4,9 +4,7 @@
 
 
 ### Group Member
-<a href="https://github.com/SeeChen/"><kbd><img src="https://avatars.githubusercontent.com/u/39422761?v=4" width="75" height="75"/></kbd></a>
-&nbsp;&nbsp;
 <a href="https://github.com/Leosta0807"><kbd><img src="https://avatars.githubusercontent.com/u/93914414?v=4" width="75" height="75"/></kbd></a>
+<a href="https://github.com/SeeChen/"><kbd><img src="https://avatars.githubusercontent.com/u/39422761?v=4" width="75" height="75"/></kbd></a>
 <a href="https://github.com/CloudWY45/"><kbd><img src="https://avatars.githubusercontent.com/u/95856719?v=4" width="75" height="75"/></kbd></a>
-&nbsp;&nbsp;
 <a href="https://github.com/tanvihang"><kbd><img src="https://avatars.githubusercontent.com/u/59675739?v=4" width="75" height="75"/></kbd></a>
